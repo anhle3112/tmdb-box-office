@@ -3,9 +3,11 @@ In this project,  I'm working with data from TMDB Box Office Revenue dataset on 
 https://www.kaggle.com/c/tmdb-box-office-prediction/
 
 
-The main focus of the project is on Exploratory Data Analysis (EDA) and Data Cleaning, which will eventually lead to building statistical model that helps predict movie revenue.
+The project is divided into 2 main phases:
+- Phase 1: Exploratory Data Analysis (EDA), Data Cleaning, and Feature Wrangling
+- Phase 2: Building statistical model that helps predict movie revenue.
 
-To make it easy to follow, the notebook is divided into 5 main steps:
+The notebook in this repository focuses mainly on Phase 1, which is again divided into 4 main steps:
 - Step 1: Describe data
 - Step 2: Visualize & Wrangle data
 - Step 3: Handle missing data
