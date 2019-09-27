@@ -3,7 +3,7 @@ In this project,  I'm working with data from TMDB Box Office Revenue dataset on 
 https://www.kaggle.com/c/tmdb-box-office-prediction/
 
 
-The main focus of the project is on Exploratory Data Analysis (EDA) and Feature Engineering, which will eventually lead to building statistical model that helps predict movie revenue.
+The main focus of the project is on Exploratory Data Analysis (EDA) and Data Cleaning, which will eventually lead to building statistical model that helps predict movie revenue.
 
 To make it easy to follow, the notebook is divided into 5 main steps:
 - Step 1: Describe data
