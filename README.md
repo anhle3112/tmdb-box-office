@@ -10,6 +10,5 @@ To make it easy to follow, the notebook is divided into 5 main steps:
 - Step 2: Visualize & Wrangle data
 - Step 3: Handle missing data
 - Step 4: Create dummy variables
-- Step 5: Build model (cont'd)
 
 With step 1, 2 and 3 broken down into numerical vs categorical features
